@@ -16,6 +16,7 @@ _See [CONTRIBUTING.md](/CONTRIBUTING.md) for details on generation and contribut
 - [PHP](#php)
 - [Python](#python)
 - [Ruby](#ruby)
+- [Rust](#rust)
 - [Closed Source](#closed-source)
 
 ## .NET
@@ -2626,6 +2627,34 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
           </div>
         </td>
         <td>Storytime is a Rails 4+ CMS and blogging engine, with a core focus on content. It is built and maintained by @cultivatelabs.</td>
+      </tr>
+  </tbody>
+</table>
+
+
+## Rust
+
+<table>
+  <thead>
+    <tr>
+        <th>Name</th>
+        <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+      <tr>
+        <td width="240">
+          <div>
+              <a href="https://atomicdata.dev">
+                <b>Atomic-Server</b>
+              </a>
+          </div>
+          <div>
+          </div>
+          <div>
+          </div>
+        </td>
+        <td>Atomic-Server is a lightweight and fast open source graph database server and CMS that includes authorization, full-text search and an easy to use API.</td>
       </tr>
   </tbody>
 </table>
